@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Cuog's GitHub stats
+[![Cuog's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuongngm)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongngm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cuongngm/cuongngm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

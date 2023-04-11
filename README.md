@@ -1,5 +1,5 @@
 ### Hi there 👋
-I learn everything from the people I follow on github and kaggle. Big thanks for them 👋
+Always learning, constantly curious 👋
 ### Cuog's GitHub stats
 [![Cuog's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuongngm)](https://github.com/anuraghazra/github-readme-stats)
 
